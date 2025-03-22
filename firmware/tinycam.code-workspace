@@ -1,3 +1,37 @@
 {
-	"folders": []
+	"folders": [
+		{
+			"path": "lib"
+		},
+		{
+			"name": "camera_test",
+			"path": "camera_test"
+		},
+		{
+			"name": "ftp_test",
+			"path": "ftp_test"
+		},
+		{
+			"name": "wifi_test",
+			"path": "wifi_test"
+		},
+		{
+			"path": "send_pic_gmail"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"fstream": "cpp",
+			"locale": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
 }

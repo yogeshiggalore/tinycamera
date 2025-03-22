@@ -1,0 +1,8 @@
+name=ym_ov2640
+version=1.0.0
+author=Yogesh M
+maintainer=yogesh.ineclat@gmail.com
+sentence=camera library for esp32
+category=Communication
+url=https://github.com/yogeshiggalore
+architectures=*
