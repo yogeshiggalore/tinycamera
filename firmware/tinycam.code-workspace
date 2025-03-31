@@ -17,6 +17,10 @@
 		},
 		{
 			"path": "send_pic_gmail"
+		},
+		{
+			"name": "send_pic_gdrive",
+			"path": "send_pic_gdrive"
 		}
 	],
 	"settings": {
